@@ -1,6 +1,49 @@
 <h1 align="center">Hi 👋, I'm Moeed Ejaz Khan</h1>
 <h3 align="center">Whatever I do, I do with perfection, Takes work ethics very seriously</h3>
+⚒️ "𝗜 𝗯𝘂𝗶𝗹𝗱 𝗱𝗮𝘁𝗮 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗮𝗿𝗲 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗯𝘂𝘁 𝗲𝘅𝘁𝗿𝗮𝗼𝗿𝗱𝗶𝗻𝗮𝗿𝘆" - 𝙈𝙤𝙚𝙚𝙙 
+ 
+🚀 𝐅𝐨𝐫𝐦𝐞𝐫 𝐆𝐨𝐨𝐠𝐥𝐞-𝐱𝐖𝐅 𝐒𝐞𝐧𝐢𝐨𝐫 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 worked with high-impact data initiatives for the 𝐆𝐨𝐨𝐠𝐥𝐞 𝐃𝐚𝐭𝐚𝐩𝐫𝐨𝐜 𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 𝐂𝐕𝐄 𝐭𝐞𝐚𝐦, ensuring top-tier performance, scalability, and reliability in large-scale data processing.
 
+From optimizing 𝗔𝗪𝗦 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 𝗳𝗼𝗿 𝗪𝗲𝘀𝘁𝗲𝗿𝗻 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 to modernizing 𝗔𝘇𝘂𝗿𝗲-𝗯𝗮𝘀𝗲𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗳𝗼𝗿 𝗖𝗹𝗼𝗿𝗼𝘅, streamlining 𝗱𝗮𝘁𝗮 𝗺𝗶𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗖𝗼𝗰𝗮-𝗖𝗼𝗹𝗮 𝗨𝗦, developing 𝗿𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗳𝗼𝗿 𝗔𝗿𝗮𝗺𝗮𝗿𝗸, and enhancing data integration platforms for 𝗢𝘀𝗵𝗸𝗼𝘀𝗵 𝗖𝗼𝗿𝗽𝗼𝗿𝗮𝘁𝗶𝗼𝗻, I deliver exceptional results.
+
+❤️ With 8 years of hardcore experience under my belt, I am go-to expert for creating, optimizing, and maintaining data systems that don’t just work—they excel. 
+
+My profound knowledge across 𝗱𝗮𝘁𝗮 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 (𝗔𝗪𝗦, 𝗔𝘇𝘂𝗿𝗲, 𝗚𝗖𝗣) ensures that data solutions are not only top-notch but also future-proof.
+
+Why Me?
+⚒️ 𝗖𝗹𝗼𝘂𝗱 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: AWS, Azure, GCP
+⚒️ 𝗖𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿: Cloud SQL, BigQuery, Dataflow, Pub/Sub, Synapse, Data Lake Gen2, 
+       Cosmos, Blob Storage, Redshift.
+⚒️ 𝗘𝗧𝗟 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Apache Spark, Apache Airflow, Databricks
+⚒️ 𝗘𝗧𝗟 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Informatica, Glue, Data Factory, SSIS, Apache Airflow, Hadoop, Data Prep, Data 
+       Stage, Power Query.
+⚒️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗣𝗿𝗼𝘄𝗲𝘀𝘀: MySQL, PostgreSQL, MongoDB
+⚒️ 𝗦𝘁𝗼𝗿𝗮𝗴𝗲𝘀 (𝗖𝗹𝗼𝘂𝗱 𝗮𝗻𝗱 𝗢𝗻-𝗣𝗿𝗲𝗺): SQL Server, S3, Mongo, Cosmos DB, Blob Storage, Cloud SQL, NoSQL.
+⚒️ 𝗖𝗼𝗱𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀: Python, SQL, Pyspark, KQL, Bash
+⚒️ 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗕𝗜: Power BI, Looker Studio, Tableau, Qlik, Cognos, SSRS.
+⚒️ 𝗗𝗲𝘃𝗢𝗽𝘀 𝗞𝗻𝗼𝘄-𝗵𝗼𝘄: CI/CD, Docker, Kubernetes
+⚒️ 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗙𝗼𝗰𝘂𝘀: Data encryption, IAM, Compliance (GDPR, HIPAA)
+⚒️ 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 𝗦𝗮𝘃𝘃𝘆: Hadoop, Hive, Kafka
+⚒️ 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 & 𝗔𝗜: Object Detection, Face Detection, Financial Predictions, Inventory Management using AI, AI Warehousing, Gen AI, Sentiment Analysis, Linear & Logistic Regressions, KNN, SVM, Random Forests.
+
+🚀 𝗥𝗲𝗰𝗲𝗻𝘁𝗹𝘆 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+
+- Coca Cola US data migration (Alteryx, SQL, ADF, Azure SQL)
+- EDW2.0 Data Modernization (MS Fabric, SQL Server, Pyspark)
+- Global Finance Dashboard Enhancement (Power BI, DAX, Azure Analysis Services, SQL Server)
+- Financial Risk Analysis Platform (R, Shiny, PostgreSQL, AWS S3)
+- Phoenix Retail Data Integration (Talend, Power BI, Azure AI services, SQL Server)
+- Evergreen Healthcare Analytics Platform (ADF, Databricks, Azure AI services, Azure SQL)
+and others ..
+
+❤️A trustworthy all-around developer with the ability to multi-task. Delivering high-quality results while meeting your business goals is my top priority.
+
+I am negotiable on price and always up for a challenge. 𝗗𝗼𝗻'𝘁 𝗵𝗲𝘀𝗶𝘁𝗮𝘁𝗲 𝘁𝗼 𝗴𝗲𝘁 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵 𝘄𝗶𝘁𝗵 𝗺𝗲. 𝗜 𝘄𝗶𝗹𝗹 𝗯𝗲 𝗱𝗲𝗹𝗶𝗴𝗵𝘁𝗲𝗱 𝘁𝗼 𝗮𝘀𝘀𝗶𝘀𝘁 𝘆𝗼𝘂 𝘁𝗼𝗱𝗮𝘆.
+ 
+I am happy to talk about your company's needs before taking a contract! 
+📞 Feel free to leave a message.
+
+Moeed
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeedejazkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="moeedejazkhan1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeedejazkhan1" alt="moeedejazkhan1" /></a> </p>
